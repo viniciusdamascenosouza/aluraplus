@@ -1,2 +1,2 @@
 # aluraplus
-Projeto realizado para colocar em prática conhecimento adquirido no curso do Alura, onde me foi fornecido o designno Figma.
+Para ver meu projeto: https://viniciusdamascenosouza.github.io/aluraplus/
